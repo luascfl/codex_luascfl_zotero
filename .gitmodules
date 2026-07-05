@@ -1,0 +1,12 @@
+[submodule "Zotero-plugins-6.0.36-or-7"]
+	path = Zotero-plugins-6.0.36-or-7
+	url = https://github.com/luascfl/zotero-plugins-6-0-36-or-7.git
+[submodule "zotero_dark_amoled"]
+	path = zotero_dark_amoled
+	url = https://github.com/luascfl/zotero_dark_amoled.git
+[submodule "zotero_sync_webdav"]
+	path = zotero_sync_webdav
+	url = https://github.com/luascfl/zotero_sync_webdav.git
+[submodule "zotero-web-open-in-desktop"]
+	path = zotero-web-open-in-desktop
+	url = https://github.com/luascfl/zotero-web-open-in-desktop.git
